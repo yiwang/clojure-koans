@@ -1,3 +1,7 @@
+\#*\#
+.nrepl-port
+*.swp
+*.swo
 bin
 classes
 lib
